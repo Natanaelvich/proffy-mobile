@@ -2,7 +2,7 @@
 <img src='https://user-images.githubusercontent.com/52014318/90334864-f79c4400-dfa6-11ea-8a9d-525b4f76b45d.png' width='250' />
 </ p>
 
-### project in react native created in next level week two rocketseat✡️💜👾⚛
+### your online study platform mobile 💜⚛🚀🔥✡️💜👾⚛
 
 ## Requirements
 
