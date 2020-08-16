@@ -31,7 +31,7 @@ const Landing: React.FC = () => {
             <SubTitle>O que deseja fazer?</SubTitle>
 
             <ButtonsContainer>
-                <ButtonPrimary>
+                <ButtonPrimary onPress={() => navigation.navigate('StudyTabs')}>
                     <ButtonText>Estudar</ButtonText>
                     <StudyIcon source={studyIcon} />
                 </ButtonPrimary>
