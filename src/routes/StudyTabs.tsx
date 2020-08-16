@@ -6,6 +6,8 @@ import Favorites from '../screens/Favorites';
 
 const Tab = createBottomTabNavigator();
 
+const data = [];
+
 function StudyTabs() {
     return (
         <Tab.Navigator
@@ -41,18 +43,27 @@ function StudyTabs() {
                 component={TeacherList}
                 options={{
                     tabBarLabel: 'Proffys',
-                    tabBarIcon: ({ color, size }) => (
-                        <Feather name="tv" size={size} color={color} />
+                    tabBarIcon: ({ color, size, focused }) => (
+                        <Feather
+                            name="tv"
+                            size={size}
+                            color={focused ? '#8257e5' : color}
+                        />
                     )
                 }}
             />
+
             <Tab.Screen
                 name="Favorites"
                 component={Favorites}
                 options={{
                     tabBarLabel: 'Favoritos',
                     tabBarIcon: ({ color, size, focused }) => (
-                        <Feather name="heart" size={size} color={color} />
+                        <Feather
+                            name="heart"
+                            size={size}
+                            color={focused ? '#8257e5' : color}
+                        />
                     )
                 }}
             />
