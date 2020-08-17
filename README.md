@@ -1,6 +1,8 @@
-<h1 align='center'> PROFFY </h1>
+<p align='center'>
+<img src='https://user-images.githubusercontent.com/52014318/90334864-f79c4400-dfa6-11ea-8a9d-525b4f76b45d.png' width='250' />
+</ p>
 
-### project in react native created in next level week two rocketseat✡️💜👾⚛
+### your online study platform mobile 💜⚛🚀🔥✡️💜👾⚛
 
 ## Requirements
 
@@ -8,6 +10,11 @@ For development, you will only need Node.js installed on your environement.
 
 ## ScreenShots
 
+<p align='center'>
+<img src='https://user-images.githubusercontent.com/52014318/90334787-6cbb4980-dfa6-11ea-9630-84d9f08488e5.jpg' width='250' />
+<img src='https://user-images.githubusercontent.com/52014318/90182386-45873100-dd88-11ea-9c6b-591b0d15691e.gif' width='250' />
+<img src='https://user-images.githubusercontent.com/52014318/90182538-81ba9180-dd88-11ea-9140-de4532035804.gif' width='250' />
+</ p>
 
 ## Install
 
