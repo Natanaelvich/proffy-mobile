@@ -1,13 +1,23 @@
 import React from 'react';
 
-import { Container, Title } from './styles';
+import { Container, List } from './styles';
 import Pageheader from '../../components/Pageheader';
+import TeacherItem from '../../components/TeacherItem/Index';
 
 const Favorites: React.FC = () => {
     return (
         <Container>
             <Pageheader title="Meus Proffys favoritos" />
-            <Title>Favorites</Title>
+            <List>
+                <TeacherItem />
+                <TeacherItem />
+                <TeacherItem />
+                <TeacherItem />
+                <TeacherItem />
+                <TeacherItem />
+                <TeacherItem />
+                <TeacherItem />
+            </List>
         </Container>
     );
 };
