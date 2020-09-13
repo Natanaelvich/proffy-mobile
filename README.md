@@ -2,13 +2,13 @@
 <img src='https://user-images.githubusercontent.com/52014318/90334864-f79c4400-dfa6-11ea-8a9d-525b4f76b45d.png' width='250' />
 </ p>
 
-### your online study platform mobile 💜⚛🚀🔥✡️💜👾⚛
+### your online study platform mobile 💜📚
 
 ## Requirements
 
 For development, you will only need Node.js installed on your environement.
 
-## ScreenShots
+## ScreenShots and GIFs
 
 <p align='center'>
 <img src='https://user-images.githubusercontent.com/52014318/90334787-6cbb4980-dfa6-11ea-9630-84d9f08488e5.jpg' width='250' />
